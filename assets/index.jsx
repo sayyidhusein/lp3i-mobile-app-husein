@@ -1,7 +1,7 @@
-import ICGoogle from './images/google.png'
-import ICFacebook from './images/facebook.png'
+import ICGoogle from './images/flat-color-icons_google.png'
+import ICFacebook from './images/Frame.png'
 
 export {
     ICGoogle,
-    ICFacebook
+    ICFacebook,
 }
